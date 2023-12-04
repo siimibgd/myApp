@@ -1,7 +1,5 @@
 package com.example.myApp;
 
-import com.example.myApp.Controller.ApiControllers;
-import com.example.myApp.Models.User;
 import com.example.myApp.car.Cars;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

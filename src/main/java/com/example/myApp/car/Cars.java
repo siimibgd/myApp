@@ -32,7 +32,7 @@ public class Cars {
     @Column
     private int price;
 
-    public Cars(long id, String plateNumber, String brand, String model, String color, int year, int cc, String fuel, int power, int torque, int volume, int price) {
+    /*public Cars(long id, String plateNumber, String brand, String model, String color, int year, int cc, String fuel, int power, int torque, int volume, int price) {
         this.id = id;
         this.plateNumber = plateNumber;
         this.brand = brand;
@@ -45,7 +45,7 @@ public class Cars {
         this.torque = torque;
         this.volume = volume;
         this.price = price;
-    }
+    }*/
 
     public Cars() {
     }
